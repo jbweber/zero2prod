@@ -1,8 +1,8 @@
 use sqlx::Connection;
-use sqlx::PgConnection;
 use sqlx::Executor;
-use std::net::TcpListener;
+use sqlx::PgConnection;
 use sqlx::PgPool;
+use std::net::TcpListener;
 use uuid::Uuid;
 use zero2prod::configuration::get_configuration;
 use zero2prod::configuration::DatabaseSettings;
