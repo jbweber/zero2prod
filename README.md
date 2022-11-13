@@ -1,1 +1,0 @@
-$env:DATABASE_URL='postgres://postgres:password@192.168.254.100:5432/newsletter'
