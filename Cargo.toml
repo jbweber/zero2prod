@@ -32,6 +32,7 @@ features = [
     "chrono",
     "macros",
     "migrate",
+    "offline",
     "postgres",
     "runtime-actix-rustls",
     "uuid",
